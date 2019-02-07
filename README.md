@@ -101,6 +101,7 @@ Use `ubnt` as the password to login and `$address` is the IP address of the host
 
 ## Versions
 
++ **07.02.19:** Update to 5.10.12
 + **28.01.19:** Update to 5.10.10
 + **19.02.18:** Add port 6789 to support throughput test
 + **09.02.18:** Update to 5.6.30.
