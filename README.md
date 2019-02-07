@@ -1,3 +1,5 @@
+[appurl]: https://www.ubnt.com/enterprise/#unifi
+
 # linuxserver/unifi
 
 The UniFi® Controller software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance. [Unifi](https://www.ubnt.com/enterprise/#unifi)
