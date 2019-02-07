@@ -3,8 +3,8 @@ FROM lsiobase/ubuntu:xenial
 # set version label
 ARG BUILD_DATE
 ARG VERSION
-LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DATE}"
-LABEL maintainer="sparklyballs"
+LABEL build_version="FastJack's version:- ${VERSION} Build-date:- ${BUILD_DATE}"
+LABEL maintainer="fastjack"
 
 # package versions
 ARG UNIFI_VER="5.10.12"
