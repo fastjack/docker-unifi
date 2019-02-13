@@ -7,7 +7,7 @@ LABEL build_version="FastJack's version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="fastjack"
 
 # package versions
-ARG UNIFI_VER="5.10.12"
+ARG UNIFI_VER="5.10.17"
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
