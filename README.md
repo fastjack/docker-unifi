@@ -88,6 +88,7 @@ Use `ubnt` as the password to login and `$address` is the IP address of the host
 
 ## Versions
 
++ **02.04.19:** Switch to new unstable and update to 5.11.10
 + **08.03.19:** Update to 5.10.20
 + **19.02.19:** Update to 5.10.19
 + **13.02.19:** Update to 5.10.17
