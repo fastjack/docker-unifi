@@ -88,6 +88,7 @@ Use `ubnt` as the password to login and `$address` is the IP address of the host
 
 ## Versions
 
++ **01.08.19:** Update to 5.10.26
 + **11.06.19:** Update to 5.10.25
 + **27.05.19:** Update to 5.10.24
 + **23.04.19:** Update to 5.10.22
