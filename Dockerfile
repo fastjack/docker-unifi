@@ -7,7 +7,7 @@ LABEL build_version="FastJack's version:- ${VERSION} Build-date:- ${BUILD_DATE}"
 LABEL maintainer="fastjack"
 
 # package versions
-ARG UNIFI_VER="5.12.72"
+ARG UNIFI_VER="5.13.32"
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
@@ -21,6 +21,7 @@ RUN \
  apt-get install -y \
 	binutils \
 	jsvc \
+	logrotate \
 	mongodb-org-server \
 	openjdk-8-jre-headless \
 	wget && \
