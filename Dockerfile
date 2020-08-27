@@ -21,6 +21,7 @@ RUN \
  apt-get install -y \
 	binutils \
 	jsvc \
+	logrotate \
 	mongodb-org-server \
 	openjdk-8-jre-headless \
 	wget && \
